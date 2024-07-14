@@ -1,4 +1,4 @@
-<h1 align="left">☕️ Projeto Starbucks: Experiência do Café ☕️</h1>
+<h1 align="left">☕️ Projeto Starbucks: Recriando a experiência do Café ☕️</h1>
 
 ###
 
